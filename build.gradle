@@ -22,6 +22,6 @@ jar {
     manifest {
         attributes 'Implementation-Title': 'Ten Pin Bowling',
                 'Implementation-Version': version,
-                'Main-Class': 'us.rlit.bowling.bowl.TenPinBowling'
+                'Main-Class': 'us.rlit.bowling.TenPinBowling'
     }
 }
