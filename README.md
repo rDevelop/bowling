@@ -1,4 +1,5 @@
-#Bowling game.
+# Bowling game
+
 Reads from default file bowling-game.txt, but can be passed with -f option.
 
 v1.0
