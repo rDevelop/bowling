@@ -1,0 +1,10 @@
+.gradle/**
+.idea/*
+build/*
+gradle/*
+gradle*
+json/**
+logs/**
+out/**
+heroku.txt
+.DS_Store
