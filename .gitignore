@@ -6,5 +6,6 @@ gradle*
 json/**
 logs/**
 out/**
+classes/**
 heroku.txt
 .DS_Store
